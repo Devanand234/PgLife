@@ -1,2 +1,2 @@
 # PgLife
-PGLife website using php backend 
+create PGLife website using php backend and Html ,Css ,Javascript ,React
